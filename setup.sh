@@ -16,7 +16,7 @@ cd ..
 
 
 ## Text Encoder
-cd models/text_encoder
+cd models/text_encoders
 wget https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors
 cd ../..
 
